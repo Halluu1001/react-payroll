@@ -9,7 +9,8 @@
   color: black;
   text-align: center;
   color:red;
-  margin-top: -800px;
+  margin-top: -400px;
+  position: 'absolute';
 }
 
 .dis1 {
@@ -153,7 +154,7 @@ input[type=number] {
 {
 
 	
-	position: sticky;
+	position: 'fixed';
    left: 0;
    bottom: 0;
    width: 100%;
